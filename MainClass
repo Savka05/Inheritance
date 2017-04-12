@@ -1,0 +1,7 @@
+public class MainClass {
+	
+	public static void main(String[] args) {
+		BigHouse bh = new BigHouse(20, 1);
+		bh.getSize();	
+	}
+}
