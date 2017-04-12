@@ -1,0 +1,14 @@
+public class House {
+	int width;
+	int height;
+  
+	House(int w, int h) {
+		w = width;
+		h = height;
+		
+	}
+	public void getSize() {
+		System.out.println(width);
+		System.out.println(height);
+	}
+}
