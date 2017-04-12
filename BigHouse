@@ -1,0 +1,8 @@
+public class BigHouse extends House {
+	
+		BigHouse(int w,int h ) {
+		super(w, h);
+		super.height = h;
+		super.width = w;						        		      
+    }
+}
